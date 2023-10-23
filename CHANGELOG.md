@@ -1,5 +1,14 @@
 # Changelog
 
+## [7.2.3](https://github.com/eslint/eslint-scope/compare/v7.2.2...v7.2.3) (2023-10-23)
+
+
+### Chores
+
+* Remove add-to-triage ([#106](https://github.com/eslint/eslint-scope/issues/106)) ([dc75851](https://github.com/eslint/eslint-scope/commit/dc75851b92b47eb37ed617448c0291129db676e1))
+* run tests in Node.js 21 ([#109](https://github.com/eslint/eslint-scope/issues/109)) ([957748e](https://github.com/eslint/eslint-scope/commit/957748e7fb741dd23f521af0c124ce6da0848997))
+* standardize npm script names ([#105](https://github.com/eslint/eslint-scope/issues/105)) ([115ded3](https://github.com/eslint/eslint-scope/commit/115ded3cb6f768a37f0dcb17bb16e2299849e16f))
+
 ## [7.2.2](https://github.com/eslint/eslint-scope/compare/v7.2.1...v7.2.2) (2023-07-27)
 
 
